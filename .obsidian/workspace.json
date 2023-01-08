@@ -11,11 +11,36 @@
             "id": "7594dce4c603aca4",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "start obsidian/Code syntax.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a1ffa26922798725",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2023-01-08.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b418d09298a05c83",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -130,12 +155,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,11 +172,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7594dce4c603aca4",
+  "active": "b418d09298a05c83",
   "lastOpenFiles": [
-    "start obsidian/2023-01-07.md",
+    "Daily/2023-01-08.md",
+    "Vim.md",
     "start obsidian/Code syntax.md",
     "start obsidian/2023-01-07 Calendar.md",
+    "start obsidian/2023-01-07.md",
     "start obsidian/this is Markdown testing.md",
     "start obsidian/Linking notes.md"
   ]
